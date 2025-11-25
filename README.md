@@ -47,7 +47,7 @@ The built files will be in the `dist` directory.
 ### WhatsApp Integration
 - Click "Order on WhatsApp" button on any product
 - Opens WhatsApp with pre-filled message including product details
-- Sends to: +91 9895520722
+- Sends to: +91 7736241616
 
 ## Customization
 
@@ -71,4 +71,4 @@ Edit the `orderOnWhatsApp` function in `src/components/ProductCard.vue` and chan
 
 - **Company Name**: Craftopica
 - **Tagline**: Handcrafted with Love
-- **Contact**: +91 9895520722
+- **Contact**: +91 7736241616

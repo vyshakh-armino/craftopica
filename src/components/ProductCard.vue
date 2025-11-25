@@ -7,7 +7,7 @@ const props = defineProps({
 })
 
 const orderOnWhatsApp = (product) => {
-  const phoneNumber = '919895520722'
+  const phoneNumber = '917736241616'
   const message = `Hi Craftopica! I'm interested in ordering:\n\n*${product.name}*\nPrice: ₹${product.price}\nCategory: ${product.category}\n\nPlease provide more details.`
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
   window.open(whatsappUrl, '_blank')
