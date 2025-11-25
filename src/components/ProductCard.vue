@@ -42,7 +42,7 @@ const orderOnWhatsApp = (product) => {
 
         <!-- Price -->
         <div class="flex items-baseline space-x-1 mb-4">
-          <span class="text-2xl font-display font-bold text-primary-700">₹{{ product.price }}</span>
+          <!-- <span class="text-2xl font-display font-bold text-primary-700">₹{{ product.price }}</span> -->
         </div>
       </div>
 
